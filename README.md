@@ -20,5 +20,11 @@
 ### loader处理less
 > npm i style-loader css-loader less-loader less -D
 
-### 分类css
+### 分离css
 > npm i mini-css-extract-plugin -D
+
+### 处理图片
+> npm i file-loader url-loader -D
+
+### 处理模板html
+> npm i html-webpack-plugin -D
